@@ -1,3 +1,5 @@
+![Python CI](https://github.com/adeleyeseun22/ai-training-data-pipeline/actions/workflows/ci.yml/badge.svg)
+
 # AI Training Data Pipeline
 
 A Python ETL pipeline for cleaning, validating, deduplicating, and exporting AI training datasets.
