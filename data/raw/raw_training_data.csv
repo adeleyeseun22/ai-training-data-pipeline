@@ -1,0 +1,12 @@
+record_id,text,label,source,split
+R001,"This response is helpful and clear.",positive,annotation_batch_1,train
+R002,"Terrible answer with wrong information.",negative,annotation_batch_1,train
+R003,"Average response, not very detailed.",neutral,annotation_batch_1,validation
+R004,"",positive,annotation_batch_1,train
+R005,"This is excellent!",Positive,annotation_batch_2,train
+R006,"Bad output",NEGATIVE,annotation_batch_2,test
+R006,"Bad output",NEGATIVE,annotation_batch_2,test
+R007,"I am not sure about this answer.",unclear,annotation_batch_2,validation
+R008,"   Helpful but too short.   ",positive,annotation_batch_3,train
+R009,,negative,annotation_batch_3,test
+R010,"Neutral and factual response.",neutral,annotation_batch_3,validation

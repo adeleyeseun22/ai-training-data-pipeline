@@ -1,0 +1,2 @@
+[console_scripts]
+ai-pipeline = ai_training_data_pipeline.cli:main

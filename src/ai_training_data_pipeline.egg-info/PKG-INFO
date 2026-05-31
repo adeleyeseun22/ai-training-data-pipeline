@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: ai-training-data-pipeline
+Version: 0.1.0
+Summary: Python ETL pipeline for preparing AI training datasets.
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: pydantic
+Requires-Dist: typer
+Requires-Dist: rich
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: ruff; extra == "dev"
+Requires-Dist: mypy; extra == "dev"
+
+# AI Training Data Pipeline
+
+A Python ETL pipeline for cleaning, validating, deduplicating, and exporting AI training datasets.
+
+This project demonstrates production-style data engineering for AI workflows, including raw data ingestion, validation, text cleaning, label normalization, bad-record handling, and structured export generation.
+
+More details will be added as the project develops.
